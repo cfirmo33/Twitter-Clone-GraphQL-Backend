@@ -1,5 +1,3 @@
----
-
 # GraphQL - Twitter Clone
 
 ![enter image description here](https://i.imgur.com/9nmaquP.png)
@@ -16,8 +14,6 @@ Queries and Mutations that can be made:
 
 # Queries
 
----
-
 |    Query | Description               |
 | -------: | ------------------------- |
 |  `users` | returns a bunch of users  |
@@ -26,8 +22,6 @@ Queries and Mutations that can be made:
 |  `tweet` | returns a specific tweet  |
 
 # Mutations
-
----
 
 |            Query | Description                        |
 | ---------------: | ---------------------------------- |
