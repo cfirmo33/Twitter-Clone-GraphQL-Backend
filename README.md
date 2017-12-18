@@ -13,6 +13,7 @@ To run this graphql server you need to:
 
 Queries and Mutations that can be made:
 
+
 # Queries
 
 ---
